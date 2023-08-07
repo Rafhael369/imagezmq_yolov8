@@ -1,0 +1,6 @@
+Pessoa
+Placa
+Moto
+Carro
+Caminhao
+Onibus

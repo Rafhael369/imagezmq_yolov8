@@ -1,0 +1,6 @@
+rtsp://192.168.15.12:8554/ C-7 SAIDA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
+rtsp://192.168.15.12:8555/ C-8 ENTRADA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
+rtsp://192.168.15.12:8554/ C-9 SAIDA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
+rtsp://192.168.15.12:8555/ C-10 ENTRADA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
+rtsp://192.168.15.12:8554/ C-11 SAIDA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
+rtsp://192.168.15.12:8555/ C-12 ENTRADA ['Carro', 'Moto', 'Caminhao', 'Onibus', 'Pessoa']
